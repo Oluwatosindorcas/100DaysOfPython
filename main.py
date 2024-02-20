@@ -311,7 +311,8 @@ if ussd == "*123#":
         pass
     elif transaction == "3":
         pass
-
+    elif transaction == "4":
+        pass
     else:
         print("Invalid selection")
 
